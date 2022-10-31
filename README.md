@@ -10,6 +10,8 @@ This is test for  "git diff" command
 
 #### How to
 
+Please fork this repository and then issue Pull Requests for review
+
 Sample website with plenty of files for demos
 
 ##### Copyright
