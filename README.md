@@ -11,3 +11,7 @@ This is test for  "git diff" command
 #### How to
 
 Sample website with plenty of files for demos
+
+##### Copyright
+
+2022 git training
